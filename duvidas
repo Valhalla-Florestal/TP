@@ -1,0 +1,6 @@
+for em vez de while
+auxiliar para pLinha e PColuna
+funcao para percorrer e inserir
+logica para percorrer estava certa
+verificar na hora de inserir se a celula a direita tem como indice -1, se sim alocar a direita, se n ir pra proxima.
+inserir o valor no campo item da celula;
