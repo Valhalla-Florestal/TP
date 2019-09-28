@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1569278994 source:c:\users\roniel nunes\desktop\nova pasta (3)\tpaeds\main.c
+	"tad.h"
+
+1569156023 c:\users\roniel nunes\desktop\nova pasta (3)\tpaeds\tad.h
+	<stdlib.h>
+	<stdio.h>
+
+1569278925 source:c:\users\roniel nunes\desktop\nova pasta (3)\tpaeds\tad.c
+	"tad.h"
+
+1569279048 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\tad.c
+	"tad.h"
+
+1569156023 c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\tad.h
+	<stdlib.h>
+	<stdio.h>
+
+1569360336 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-3\tadcliente.c
+	<stdlib.h>
+	<stdio.h>
+
+1569363188 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\tadcliente.c
+	<stdlib.h>
+	<stdio.h>
+
+1569364040 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\main.c
+	"TMatriz.h"
+	"TadCliente.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569364062 c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\tmatriz.h
+	"TadCliente.h"
+
+1569363871 c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\tadcliente.h
+	<stdlib.h>
+	<stdio.h>
+
+1569364255 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\codeblocks\tp-4\tp-4\tmatriz.c
+	"TMatriz.h"
+
