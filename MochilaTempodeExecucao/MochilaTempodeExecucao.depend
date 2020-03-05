@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573123061 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\tp2-final\mochilatempodeexecucao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TadMochilao.h"
+	<time.h>
+
+1573087082 c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\tp2-final\mochilatempodeexecucao\tadmochilao.h
+	<stdio.h>
+	<stdlib.h>
+
+1573086022 source:c:\users\administrador\onedrive\claudio\ufv\4 periodo\aeds\tp2-final\mochilatempodeexecucao\tadmochilao.c
+	"TadMochilao.h"
+
